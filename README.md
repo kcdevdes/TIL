@@ -1,10 +1,5 @@
 ## Hi there!
 
-------
-
-This is my repository that stores what I'm learning.
+This is my repository "TIL" that stores what I'm learning about programming and computer science.
 
 ## Javascript
-
-------
-
