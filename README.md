@@ -16,4 +16,5 @@ This is my repository "TIL" that stores what I'm learning about programming and 
   * [JS06 - 반복문](https://github.com/kcdevdes/TIL/blob/master/Javascript/JS06-Repetitive.md)
   * [JS07 - 함수](https://github.com/kcdevdes/TIL/blob/master/Javascript/JS07-Function.md)
   * [JS08 - 배열](https://github.com/kcdevdes/TIL/blob/master/Javascript/JS08-Array.md)
+  * [JS09 - 객체](https://github.com/kcdevdes/TIL/blob/master/Javascript/JS09-Dictionary.md)
 
