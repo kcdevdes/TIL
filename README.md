@@ -26,4 +26,7 @@ This is my repository "TIL" that stores what I'm learning about programming and 
   * [NJ02 - Node.JS 실행하기](https://github.com/kcdevdes/TIL/blob/%23subject_Node.js/nodejs/NJ02-Run%20NodeJS%20WebServer.md)
   * [NJ03 - URL](https://github.com/kcdevdes/TIL/blob/%23subject_Node.js/nodejs/NJ03-URL.md)
   * [NJ04 - 동적 홈페이지](https://github.com/kcdevdes/TIL/blob/%23subject_Node.js/nodejs/NJ04-Dynamic%20Web%20Page.md)
+  * [NJ05 - 파일 읽기](https://github.com/kcdevdes/TIL/blob/master/nodejs/NJ05-Read_Files.md)
+  * [NJ06 - 완전한 동적 홈페이지 제작하기](https://github.com/kcdevdes/TIL/blob/master/nodejs/NJ06-Make_a_content.md)
+  * [NJ07 - 콘솔 입력](https://github.com/kcdevdes/TIL/blob/master/nodejs/NJ07-Console_Input.md)
 
